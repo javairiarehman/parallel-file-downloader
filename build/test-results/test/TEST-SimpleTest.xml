@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-26T14:02:54.606Z" hostname="javairia-rehman-IdeaPad-Slim-5-14AKP10" time="0.006">
+  <properties/>
+  <testcase name="test()" classname="SimpleTest" time="0.006"/>
+  <system-out><![CDATA[CI works!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

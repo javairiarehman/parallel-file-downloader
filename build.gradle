@@ -1,18 +1,19 @@
 plugins {
     id 'java'
+    id 'application'
 }
 
-group = 'org.example'
-version = '1.0-SNAPSHOT'
+group = 'downloader'
+version = '1.0'
 
 repositories {
     mavenCentral()
 }
 
-test {
-    useJUnitPlatform()
+application {
+    mainClass = 'downloader.Main'
 }
 
-dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
+test {
+    useJUnitPlatform()
 }
