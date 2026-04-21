@@ -1,6 +1,7 @@
 package downloader;
 
 public class Chunk {
+
     private final long start;
     private final long end;
 
@@ -15,5 +16,10 @@ public class Chunk {
 
     public long getEnd() {
         return end;
+    }
+
+    @Override
+    public String toString() {
+        return start + " - " + end;
     }
 }

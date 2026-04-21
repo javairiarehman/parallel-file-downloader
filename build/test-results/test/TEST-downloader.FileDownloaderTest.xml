@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="downloader.FileDownloaderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-21T21:09:16.171Z" hostname="javairia-rehman-IdeaPad-Slim-5-14AKP10" time="0.017">
+  <properties/>
+  <testcase name="testDownload()" classname="downloader.FileDownloaderTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
